@@ -20,4 +20,8 @@ The CTI Integration Project is aimed to set up and configure a threat intelligen
 - Virtual environment for CTI platform. // VMWare, Ubuntu
 - Public Repository Configuration Codes // GitHub
 
-## Process
+## Steps
+
+1. Configure a Virtual Machine using Ubuntu Linux operating system for the OpenCTI platform
+2. Download a Docker to import the OpenCTI application by following steps on the GitHub page.
+<br>
